@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/test-ric/space%20game/_apis/build/status/Ricardocg9412.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/test-ric/space%20game/_build/latest?definitionId=2&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
